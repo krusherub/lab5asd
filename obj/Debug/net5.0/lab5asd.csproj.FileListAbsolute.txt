@@ -1,0 +1,16 @@
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\bin\Debug\net5.0\lab5asd.exe
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\bin\Debug\net5.0\lab5asd.deps.json
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\bin\Debug\net5.0\lab5asd.runtimeconfig.json
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\bin\Debug\net5.0\lab5asd.runtimeconfig.dev.json
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\bin\Debug\net5.0\lab5asd.dll
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\bin\Debug\net5.0\ref\lab5asd.dll
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\bin\Debug\net5.0\lab5asd.pdb
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\obj\Debug\net5.0\lab5asd.csprojAssemblyReference.cache
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\obj\Debug\net5.0\lab5asd.GeneratedMSBuildEditorConfig.editorconfig
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\obj\Debug\net5.0\lab5asd.AssemblyInfoInputs.cache
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\obj\Debug\net5.0\lab5asd.AssemblyInfo.cs
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\obj\Debug\net5.0\lab5asd.csproj.CoreCompileInputs.cache
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\obj\Debug\net5.0\lab5asd.dll
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\obj\Debug\net5.0\ref\lab5asd.dll
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\obj\Debug\net5.0\lab5asd.pdb
+D:\JetBrains Rider 2021.2.1\projects\lab5asd\lab5asd\obj\Debug\net5.0\lab5asd.genruntimeconfig.cache

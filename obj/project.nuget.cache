@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xWj0OBVIOka3KdjfBwaq7RPvR2rQ/fudsKR+V7XS47EE45jYU87AJiXyNp352kUsHS0LiKxcK+t8771/bBzRdw==",
+  "success": true,
+  "projectFilePath": "D:\\JetBrains Rider 2021.2.1\\projects\\lab5asd\\lab5asd\\lab5asd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
